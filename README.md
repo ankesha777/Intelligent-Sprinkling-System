@@ -32,13 +32,13 @@ Pump sprays pesticide only where needed
 Example sections:
 
 🔹 System Setup
-(Add robot image)
+<img width="1282" height="987" alt="Screenshot 2025-12-07 111720" src="https://github.com/user-attachments/assets/8c263a36-2d21-4620-9dc6-ad28fa1a8bd6" />
+
 
 🔹 Detection Output
-(Add disease detection image)
+<img width="523" height="510" alt="Screenshot 2026-01-22 062813" src="https://github.com/user-attachments/assets/6b2d299f-ea1b-4fd1-b533-2d7fe533f742" />
+![Uploading Screenshot 2026-01-22 062802.png…]()
 
-🔹 Spraying Action
-(Add spraying image)
 
 📊 Results
 Accurate detection of plant diseases
