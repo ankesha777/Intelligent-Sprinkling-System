@@ -1,4 +1,4 @@
-🌱 Intelligent Sprinkling System
+# 🌱 Intelligent Sprinkling System
 
 ML-Based Motor Control for Precision Agriculture
 
