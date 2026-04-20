@@ -1,7 +1,3 @@
-# Intelligent-Sprinkling-System
-Designed an intelligent motor control system using machine learning for precision agriculture. Deployed a YOLOv8n-based vision model on Raspberry Pi for real-time plant disease detection and controlled DC motors and spraying mechanism using L298N and relay modules for selective pesticide application.
-
-
 🌱 Intelligent Sprinkling System
 
 ML-Based Motor Control for Precision Agriculture
